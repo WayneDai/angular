@@ -1,0 +1,4 @@
+{
+     // 保存自动修复
+  "eslint.autoFixOnSave": true,
+}
